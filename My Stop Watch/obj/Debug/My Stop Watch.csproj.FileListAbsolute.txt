@@ -1,0 +1,11 @@
+C:\Users\pathan samina\OneDrive\Desktop\My Stop Watch\My Stop Watch\obj\Debug\My Stop Watch.csproj.AssemblyReference.cache
+C:\Users\pathan samina\OneDrive\Desktop\My Stop Watch\My Stop Watch\obj\Debug\My Stop Watch.csproj.SuggestedBindingRedirects.cache
+C:\Users\pathan samina\OneDrive\Desktop\My Stop Watch\My Stop Watch\obj\Debug\My_Stop_Watch.Form1.resources
+C:\Users\pathan samina\OneDrive\Desktop\My Stop Watch\My Stop Watch\obj\Debug\My_Stop_Watch.Properties.Resources.resources
+C:\Users\pathan samina\OneDrive\Desktop\My Stop Watch\My Stop Watch\obj\Debug\My Stop Watch.csproj.GenerateResource.cache
+C:\Users\pathan samina\OneDrive\Desktop\My Stop Watch\My Stop Watch\obj\Debug\My Stop Watch.csproj.CoreCompileInputs.cache
+C:\Users\pathan samina\OneDrive\Desktop\My Stop Watch\My Stop Watch\bin\Debug\My Stop Watch.exe.config
+C:\Users\pathan samina\OneDrive\Desktop\My Stop Watch\My Stop Watch\bin\Debug\My Stop Watch.exe
+C:\Users\pathan samina\OneDrive\Desktop\My Stop Watch\My Stop Watch\bin\Debug\My Stop Watch.pdb
+C:\Users\pathan samina\OneDrive\Desktop\My Stop Watch\My Stop Watch\obj\Debug\My Stop Watch.exe
+C:\Users\pathan samina\OneDrive\Desktop\My Stop Watch\My Stop Watch\obj\Debug\My Stop Watch.pdb
